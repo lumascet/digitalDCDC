@@ -1,0 +1,58 @@
+Partlist
+
+Exported from ControllerRC2.brd at 25.02.2019 17:07
+
+EAGLE Version 9.2.2 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value           Package            Library                                Position (inch)       Orientation
+
+C1       22p             C0603              rcl                                    (2.6 2.0625)          R270
+C2       22p             C0603              rcl                                    (2.075 2.0625)        R270
+C3       10µ             E2,5-6E            rcl                                    (1.8625 3.05)         R0
+C4       10µ             E2,5-6E            rcl                                    (1.8625 2.8125)       R0
+C5       1n              C0603              rcl                                    (1.39375 2.96875)     R90
+C6       100n            C0603              rcl                                    (1.66875 2.86875)     R0
+C7       1µ              C0603              rcl                                    (1.3625 2.8)          R180
+C8       330n            C0603              rcl                                    (1.2875 1.890625)     MR90
+C9       100n            C0603              rcl                                    (1.2875 2.0125)       MR90
+C10      1µ              C0603              rcl                                    (1.3625 2.75)         R180
+C11      1µ              C0603              rcl                                    (1.3625 2.675)        R180
+C12      1µ              C0603              rcl                                    (1.3625 2.625)        R180
+C13      22p             C0603              rcl                                    (2.025 2.6875)        R270
+C14      22p             C0603              rcl                                    (2.1875 2.7125)       R90
+C15      100n            C0603              rcl                                    (2.425 3.0625)        R180
+C16      100n            C0603              rcl                                    (2.425 3)             R180
+C17      100n            C0603              rcl                                    (2.425 2.9375)        R180
+IC1      MCP602SN        SO08               linear                                 (1.3 2.675)           MR0
+IC4      REG1117-3.3     SOT223             burr-brown                             (1.0875 1.95)         MR270
+MISO     YELLOW          CHIP-LED0805       led                                    (1.1375 1.85)         R0
+MOSI     YELLOW          CHIP-LED0805       led                                    (1.2375 1.85)         R0
+Q2       16M             QS                 special                                (2.3375 2.1)          R180
+R1       10k             R0603              rcl                                    (1.375 2.475)         MR180
+R2       10k             R0603              rcl                                    (2.025 2.8125)        R90
+R3       10k             R0603              rcl                                    (2.275 2.6875)        R270
+R4       10k             R0603              rcl                                    (1.31875 3.00625)     R270
+R5       10k             R0603              rcl                                    (0.9375 3.03125)      R270
+R6       0               R0603              rcl                                    (1.25 2.89375)        R180
+R7       10k             R0603              rcl                                    (2.1375 2.35)         MR180
+R8       33k             R0603              rcl                                    (1.7875 2.3625)       MR270
+R9       33k             R0603              rcl                                    (1.9375 2.3625)       MR270
+R10      10k             R0603              rcl                                    (2.1375 2.4125)       MR180
+R11      6.8k            R0603              rcl                                    (1.25 2.475)          MR180
+REF1     ISL21009BFB841Z SOIC127P600X175-8N custom                                 (1.5875 3.0125)       R180
+RN3      10k             0603-ARC           resistor-dil                           (1.2125 2.775)        R270
+RN4      10k             0603-ARC           resistor-dil                           (1.7 2.6875)          R0
+RN5      1k              0603-ARC           resistor-dil                           (1.4 1.975)           R90
+RX       YELLOW          CHIP-LED0805       led                                    (0.9375 1.85)         R0
+S1                       B3F-10XX           switch-omron                           (2.1875 2.946875)     R90
+SV1                      MA04-1             con-lstb                               (1.7375 2.1)          R180
+SV2                      MA03-2             con-lstb                               (2.5875 2.725)        R0
+SV3                      1X16               pinhead                                (2.1375 1.8375)       R0
+TX       YELLOW          CHIP-LED0805       led                                    (1.0375 1.85)         R0
+U$1      DCPINHEADER     CDIP16             custom                                 (2.0875 2.5875)       R0
+U1       ADS1115IDGST    SOP50P490X110-10N  Texas Instruments_By_element14_Batch_1 (1.5 2.7375)          R270
+U2       ATMEGA328P-PU   DIP254P762X457-28  Atmel_By_element14_Batch_1-00          (2.7875 2.55)         R90
+U4       MCP4725A0T-E/CH SOT95P270X145-6N   Microchip_By_element14_Batch_1         (1.0375 3.03125)      R90
+U5       MCP4725A0T-E/CH SOT95P270X145-6N   Microchip_By_element14_Batch_1         (1.2125 3.00625)      R90
